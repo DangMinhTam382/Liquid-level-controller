@@ -1,0 +1,78 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.101
+Compiler=PCM
+CCSVersion=5.025
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\Administrator\Desktop\Subject\Dien tu ung dung\btl\PICC_Button2\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=30-12-2021
+D1_L=34
+D1_L1=[36602]Project Opened.
+D1_L2=[36644]Started Editing.
+D1_L3=[37363]Stopped Editing.
+D1_L4=[37449]Started Editing.
+D1_L5=[37768]Stopped Editing.
+TotalEdit=125
+TotalDebug=0
+D1_E=125
+D1_D=0
+D1_L6=[37769]Project Closed.
+D1_L7=[37973]Project Opened.
+D1_L8=[37989]Started Editing.
+D1_L9=[38330]Stopped Editing.
+D1_L10=[40022]Project Closed.
+D1_L11=[53358]Project Opened.
+D1_L12=[53431]Started Editing.
+D1_L13=[54063]Stopped Editing.
+D1_L14=[54154]Started Editing.
+D1_L15=[57867]Stopped Editing.
+D1_L16=[58093]Started Editing.
+D1_L17=[60295]Stopped Editing.
+D1_L18=[60623]Started Editing.
+D1_L19=[61162]Stopped Editing.
+D1_L20=[61707]Started Editing.
+D1_L21=[62435]Stopped Editing.
+D1_L22=[64064]Started Editing.
+D1_L23=[64516]Stopped Editing.
+D1_L24=[65291]Project Closed.
+D1_L25=[73892]Project Opened.
+D1_L26=[74289]Started Editing.
+D1_L27=[74593]Stopped Editing.
+D1_L28=[77536]Started Editing.
+D1_L29=[77882]Stopped Editing.
+D1_L30=[79080]Started Editing.
+D1_L31=[79185]Stopped Editing.
+D1_L32=[79185]Project Closed.
+D1_L33=[79233]Project Opened.
+D1_L34=[79246]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=69
+Count=1
+2=stdutils.h
+3=main.h
+4=D:\Program Files (x86)\PICC\Devices\16F877A.h
+5=
+6=
+[main.c]
+Type=4
+
+[defines]
+buildcount=8
+[Units]
+Count=1
+1=main (main)
